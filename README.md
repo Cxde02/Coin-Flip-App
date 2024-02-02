@@ -1,2 +1,2 @@
 # Coin-Flip-App
-Coin Flipper
+Coin Flipper 🪙
