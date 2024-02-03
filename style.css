@@ -18,6 +18,10 @@ body {
 button {
   padding: 1rem;
   background-color: skyblue;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 #coin {
@@ -76,4 +80,16 @@ button {
   to {
     transform: rotateY(1620deg);
   }
+}
+
+p {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+#status {
+  color: #fff;
+  font-size: 2em;
+  font-weight: 600;
 }
